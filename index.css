@@ -130,4 +130,13 @@ display: inline-block;
   font-size: 1.8rem;
   font-style: italic;
   margin: 3px 0 10px;
+} 
+@media only screen and (max-width: 800px) {
+
+.card img {
+width: 80px;
+height: 80px;
+
 }
+}
+
