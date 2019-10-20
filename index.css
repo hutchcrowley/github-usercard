@@ -87,6 +87,15 @@ body {
   font-size: 48px;
 }
 
+.ds_badge {
+display: inline-block;
+
+
+
+
+}
+
+
 .cards {
   width: 100%;
 }
